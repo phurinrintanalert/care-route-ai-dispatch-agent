@@ -12,9 +12,6 @@ In high-pressure medical environments, routing urgent requests to the right spec
 <img width="832" height="342" alt="Screenshot 2026-06-25 at 23 09 37" src="https://github.com/user-attachments/assets/9838ffcd-027b-48bc-9d5e-a8957ea2168d" />
 
 
-![CareRoute Terminal Output](link-to-your-terminal-screenshot-here.png)
-
-
 ## Tech Stack & Architecture
 This project proves out a modern, event-driven AI architecture rather than just a single script:
 
