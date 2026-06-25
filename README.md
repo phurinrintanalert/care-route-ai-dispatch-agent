@@ -40,7 +40,10 @@ If you want to run this locally follow the steps below
 ### 1. Clone the repository and create a virtual environemnt and install required dependencies 
 
 ### 2. Add your API Keys
-Create a .env file in the root directory and add your credentials. (See .env.example for the required format)
+Create a .env file in the root directory and add your credentials. Copy and paste below and replace the placeholder values with your own keys:
+SUPABASE_URL=your_supabase_project_url
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_key
+OPENAI_API_KEY=your_openai_api_key
 
 ### 3. Run the agent 
 python3 main.py
